@@ -1,0 +1,19 @@
+*{
+   margin: 0px;
+   padding: 0px;
+
+}
+
+#navbar{
+  background-color: blue;
+  height: 100px;
+  text-align: center;
+  padding-top: 50px;
+
+}
+
+a{
+    color: white;
+    margin-right: 200px;
+    font-size: larger;
+}

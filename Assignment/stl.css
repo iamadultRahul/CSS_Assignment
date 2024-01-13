@@ -1,0 +1,14 @@
+img {
+    height: 300px;
+    width: 500px;
+    border-radius: 40px;
+    }
+
+ div {
+   margin: 500px;
+   margin-top: 10px;
+   background-color: #f8c42e;
+   width: 500px;
+   padding: 10px;
+   border-radius: 20px;
+    }
